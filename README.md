@@ -5,7 +5,7 @@ Companies. Capitalism. Competition. Cgroceries. Cprofit.
 I'm making a tool to see:
   - Which product is the cheapest at which supermarket in my local area (there are 4 or 5 of them);
   - And generate grocery list per store.
-  - (Decide to go to to marketstands because that always seems to be the cheapest);
+  - (Decide to go to to marketstands instead because they always seems to be the cheapest);
   
 I run the tool with a VPN, just in case.
 

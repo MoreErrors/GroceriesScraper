@@ -18,3 +18,10 @@ I run the tool with a VPN, just in case.
 # As of now
 It looks up the price of a zucchini of a single store.
 Very vital because I love zucchini's.
+
+# Up next
+Phase 1:
+- Fetch the prices of a zucchini from multiple stores;
+- Order by price on an HTML page;
+
+Phase 2:

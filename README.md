@@ -1,4 +1,4 @@
-# GroceriesScraper
+# GroceriesScraper - IT BROKE
 
 Companies. Capitalism. Competition. Cgroceries. Cprofit.
 

@@ -13,7 +13,7 @@ I run the tool with a VPN, just in case.
 
 1. Open the folder in Visual Studio Code;
 2. "npm init" in VIsual Studio Code's console to download the necessary libraries/dependencies/things;
-3. Probably "node scraper.js" in Visual Studio Code in console.
+3. Probably "node scraper.js" in Visual Studio Code in console to run and see my app fetch the price of a zucchini.
 
 # As of now
 It looks up the price of a zucchini of a single store.

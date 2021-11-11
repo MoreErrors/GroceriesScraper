@@ -9,6 +9,12 @@ I'm making a tool to see:
   
 I run the tool with a VPN, just in case.
 
+# Installation
+
+1. Open the folder in Visual Studio Code;
+2. npm init to download the necessary libraries/dependencies/things;
+3. Probably "node scraper.js" in Visual Studio Code in console.
+
 # As of now
 It looks up the price of a zucchini of a single store.
 Very vital because I love zucchini's.

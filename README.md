@@ -12,7 +12,7 @@ I run the tool with a VPN, just in case.
 # Installation
 
 1. Open the folder in Visual Studio Code;
-2. npm init to download the necessary libraries/dependencies/things;
+2. "npm init" in VIsual Studio Code's console to download the necessary libraries/dependencies/things;
 3. Probably "node scraper.js" in Visual Studio Code in console.
 
 # As of now
